@@ -1,1 +1,1 @@
-print("successful!")
+print("successful")
